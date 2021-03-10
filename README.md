@@ -3,8 +3,6 @@
 ## Authors
 
 -   **Diogo Silva (98776)** - [HerouFenix](https://github.com/HerouFenix)
--   **Jorge Brown (#####)** - 
--   **Tiago Melo (#####)** - 
 
 ## License
 
